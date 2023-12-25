@@ -43,7 +43,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loadingminds&show_icons=true&locale=en" alt="loadingminds" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loadingminds&" alt="loadingminds" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loadingminds&" 8&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /></p>
 
 
 ## 🌐 Connect With Us
@@ -56,7 +56,7 @@ Follow our exciting journey on social media and let's connect:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/loadingminds/)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Loadingminds4@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=black)](mailto:Loadingminds4@gmail.com)
 
 
 
